@@ -86,7 +86,7 @@ The system operates based on **real-time sensor feedback** processed by STM32:
 
 
 
-[ppt](ppt.pdf)
+[PPT](PPT.pdf)
 
 
 ---
